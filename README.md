@@ -1,12 +1,3 @@
-# aurelia-skeleton-navigation
-
-[![ZenHub](https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)](https://zenhub.io)
-[![Join the chat at https://gitter.im/aurelia/discuss](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aurelia/discuss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-This skeleton is part of the [Aurelia](http://www.aurelia.io/) platform. It sets up a standard navigation-style app using gulp to build your ES6 code with the Babel compiler. Karma/Protractor/Jasmine testing is also configured.
-
-> To keep up to date on [Aurelia](http://www.aurelia.io/), please visit and subscribe to [the official blog](http://blog.durandal.io/). If you have questions, we invite you to [join us on Gitter](https://gitter.im/aurelia/discuss). If you would like to have deeper insight into our development process, please install the [ZenHub](https://zenhub.io) Chrome Extension and visit any of our repository's boards. You can get an overview of all Aurelia work by visiting [the framework board](https://github.com/aurelia/framework#boards).
-
 ## Running The App
 
 To run the app, follow these steps.
@@ -46,35 +37,6 @@ To run the app, follow these steps.
 ```html
 <script src="jspm_packages/github/webcomponents/webcomponentsjs@0.5.2/HTMLImports.js"></script>
 ```
-
-## Running The App under Electron
-
-To run the app under [Electron](http://electron.atom.io), follow these steps.
-
-1. Install [Electron](http://electron.atom.io)
-
-  ```shell
-  npm install electron-prebuilt -g
-  ```
-2. To start the app, execute the following command:
-
-  ```shell
-  electron .
-  ```
-
-
-## Bundling
-Bundling is performed by [Aurelia Bundler](http://github.com/aurelia/bundler). A gulp task is already configured for that. Use the following command to bundle the app:
-
-  ```shell
-    gulp bundle
-  ```
-
-You can also unbundle using the command bellow:
-
-  ```shell
-  gulp unbundle
-  ```
 
 ## Running The Unit Tests
 
