@@ -20,7 +20,8 @@
   },
   "scripts": {
     "build": "gulp",
-    "start": "gulp watch"
+    "start": "gulp watch",
+    "postisntall": "gulp build"
   },
   "devDependencies": {
     "aurelia-bundler": "^0.1.6",
