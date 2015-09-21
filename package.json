@@ -19,9 +19,8 @@
     "url": "http://github.com/aurelia/skeleton-navigation"
   },
   "scripts": {
-    "build": "gulp",
-    "start": "node index.js",
-    "postisntall": "gulp build"
+    "start": "node app",
+    "postisntall": "gulp default"
   },
   "devDependencies": {
     "aurelia-bundler": "^0.1.6",
