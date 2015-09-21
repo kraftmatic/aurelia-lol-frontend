@@ -20,7 +20,7 @@
   },
   "scripts": {
     "build": "gulp",
-    "start": "gulp",
+    "start": "node index.js",
     "postisntall": "gulp build"
   },
   "devDependencies": {
