@@ -20,7 +20,6 @@
   },
   "scripts": {
     "build": "gulp",
-    "start": "gulp watch",
     "postisntall": "gulp build"
   },
   "devDependencies": {
