@@ -19,7 +19,7 @@
     "url": "http://github.com/aurelia/skeleton-navigation"
   },
   "scripts": {
-    "start": "node app",
+    "start": "node index.js",
     "postisntall": "gulp default"
   },
   "devDependencies": {
