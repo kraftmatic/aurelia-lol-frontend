@@ -20,7 +20,7 @@
   },
   "scripts": {
     "build": "gulp",
-    "start": "node /src/app.js"
+    "start": "node src/app.js"
   },
   "devDependencies": {
     "aurelia-bundler": "^0.1.6",
