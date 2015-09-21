@@ -3,7 +3,7 @@ export class App {
     config.title = 'LoL Data';
     config.map([
       { route: ['','welcome'],  name: 'welcome',      moduleId: 'welcome',      nav: true, title:'Welcome' },
-      { route: 'users',         name: 'users',        moduleId: 'users',        nav: true, title:'Summoner/Team Info' }
+      { route: 'users',         name: 'users',        moduleId: 'users',        nav: true, title:'Team Info' }
     ]);
 
     this.router = router;
