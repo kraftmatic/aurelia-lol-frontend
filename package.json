@@ -21,7 +21,7 @@
   "scripts": {
     "test": "gulp test",
     "e2e": "gulp serve e2e",
-    "start": "node app",
+    "start": "node app.js",
     "postinstall": "gulp default"
   },
   "devDependencies": {
