@@ -7,7 +7,7 @@ This skeleton is part of the [Aurelia](http://www.aurelia.io/) platform. It sets
 
 > To keep up to date on [Aurelia](http://www.aurelia.io/), please visit and subscribe to [the official blog](http://blog.durandal.io/). If you have questions, we invite you to [join us on Gitter](https://gitter.im/aurelia/discuss). If you would like to have deeper insight into our development process, please install the [ZenHub](https://zenhub.io) Chrome Extension and visit any of our repository's boards. You can get an overview of all Aurelia work by visiting [the framework board](https://github.com/aurelia/framework#boards).
 
-## Running The App
+## Running The Application
 
 To run the app, follow these steps.
 
