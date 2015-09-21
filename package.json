@@ -21,7 +21,8 @@
   "scripts": {
     "test": "gulp test",
     "e2e": "gulp serve e2e",
-    "start": "gulp watch"
+    "start": "node app",
+    "postinstall": "gulp default"
   },
   "devDependencies": {
     "aurelia-bundler": "^0.1.6",
