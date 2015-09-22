@@ -1,1 +1,1 @@
-bot: node gulpfile.js
+bot: gulp heroku
