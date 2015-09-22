@@ -8,7 +8,6 @@ var gulp        = require('gulp'),
     watch       = require('gulp-watch'),
     prefix      = require('gulp-autoprefixer'),
     del         = require('del'),
-    server      = require('./server'),
     kss         = require('gulp-kss'),
     browserSync = require('browser-sync');
 
